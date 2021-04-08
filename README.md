@@ -21,3 +21,5 @@ akun untuk petugas, username: petugas, password: petugas
 
 lalu untuk masyarakat bisa login langsung atau buat dahulu akunnya dengan cara klik registrasi
 
+untuk web yang sudah di hosting bisa buka http://shrouded-plateau-46454.herokuapp.com/
+
